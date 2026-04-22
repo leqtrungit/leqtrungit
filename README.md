@@ -1,19 +1,20 @@
 # Hi 👋, I'm Trung Le
 
-### Software Engineer | Full-Stack Developer | Tech Enthusiast
+### Tech Lead | Software Engineer | Full-Stack Developer
 
-Software Engineer with 3+ years of experience delivering end-to-end solutions, from client discussions to deployment. Passionate about technology, project management, finance, and self-hosted innovations that improve everyday life.
+Results-driven Software Engineer with 3+ years of experience delivering scalable web applications and leading end-to-end project development in cross-functional teams. Proven track record of optimizing system performance, managing full project lifecycles, and aligning technology solutions with business goals. Currently transitioning into Tech Lead to leverage both technical and leadership capabilities.
 
 ---
 
 ## 🚀 About Me
 
 - 🌍 Based in **Ho Chi Minh City, Vietnam**
-- 💼 Currently working as **Software Engineer** at **Bosch Global Software Technologies Vietnam**
+- 💼 Co-Founder & Tech Lead at **DAT Software Solutions**
+- 💼 Software Engineer at **Bosch Global Software Technologies Vietnam**
 - 🎓 Bachelor's Degree in **Computer Networks and Data Communications** from Ton Duc Thang University
-- 🔭 Working on full-stack web applications with **Angular**, **Spring Boot**, and **Oracle DB**
-- 🤖 Building **AI Agents** and **Workflow Automation** systems with **LangChain**, **n8n**
-- 🌱 Passionate about **DevOps**, **Self-Hosting**, **AI Automation**
+- 🔭 Building scalable web applications, architecting systems, and leading cross-functional teams
+- 🤖 Developing **AI Agents** and **Workflow Automation** pipelines with **n8n**, **AutoGen**, and **LLMs**
+- 🌱 Passionate about **Leadership**, **DevOps**, **Self-Hosting**, and **AI Automation**
 - ✉️ Reach me at **[leqtrungit@gmail.com](mailto:leqtrungit@gmail.com)**
 - 🌐 Portfolio: **[lequoctrung.id.vn](https://lequoctrung.id.vn)**
 
@@ -21,16 +22,21 @@ Software Engineer with 3+ years of experience delivering end-to-end solutions, f
 
 ## 💼 Professional Experience
 
+**Co-Founder & Tech Lead** @ DAT Software Solutions _(Mar 2025 - Present)_
+- Led project management, requirements analysis, and technical consulting to deliver tailored client solutions
+- Architected scalable systems, selected optimal technology stacks, and managed full-cycle development
+- Recruited and mentored engineering talent, fostering improved collaboration and delivery efficiency
+
 **Software Engineer** @ Bosch Global Software Technologies Vietnam _(Dec 2022 - Present)_
-- Led full lifecycle web application project for German internal clients
-- Reduced critical API response time from **5m to 1-2s** through backend optimization
-- Integrated third-party APIs and streamlined cross-project data processing
-- Enhanced CI/CD pipelines with optimized Dockerfiles and GitHub Actions
+- Independently led an acquisition process web application project from Feb 2023, managing the full lifecycle
+- Optimized performance of multiple APIs, reducing one critical API's response time from **5 minutes to 1-2 seconds**
+- Migrated mid-sized project from Angular v10 to v18, significantly enhancing performance and maintainability
+- Enhanced CI/CD pipelines with optimized Dockerfiles, GitHub Actions, and containerized dev environments
 - Tech Stack: `Angular` `Spring Boot` `Oracle DB` `OpenShift` `Docker` `GitHub Actions`
 
 **Frontend Developer Intern** @ Bosch Global Software Technologies Vietnam _(Jun 2022 - Dec 2022)_
-- Developed internal tools and dashboards with Angular and Power BI
-- Built logging and job scheduling system from scratch
+- Developed internal tools and dashboards with Angular and embedded Power BI
+- Built a logging and job scheduling project from scratch
 - Followed Scrum methodology and collaborated directly with customers
 
 ---
@@ -75,15 +81,25 @@ Software Engineer with 3+ years of experience delivering end-to-end solutions, f
 
 ## 🎯 Featured Projects
 
-### 🏢 HGM Orders
-Business Process Management application for tracking and managing workflows in a media outsourcing company.
-- **Tech Stack:** Hasura, NestJS, PostgreSQL, GraphQL
-- **Features:** Order tracking, task assignments, production monitoring
+### 🤖 Media AI Automation Pipeline
+Led 3-person team to build YouTube video factory processing 10,000+ assets daily and over 10TB of storage with 80% success rate in YouTube API uploads.
+- **Tech Stack:** n8n, Microservices, OpenAI, Ollama, Docker
+- **Features:** 1,500 videos/day, automated multi-API queue infrastructure, zero manual edits
+
+### 🏢 HGM Orders – BPM Platform
+Delivered 3 customized BPM platforms for 70-person media ops, cutting order cycle by 60%.
+- **Tech Stack:** React, Hasura, PostgreSQL, GraphQL
+- **Features:** 5TB+ storage system, 100% data integrity, sub-2-second latency, zero manual errors
+
+### 🤖 D365 AI Agent PoC
+Solo-built RAG-powered AI agent enabling instant D365 how-to answers for end-users.
+- **Tech Stack:** Python, AutoGen, RAG, LLM, Docker
+- **Features:** Local LLM integration, context-aware responses, desktop executable deployment
 
 ### 🏠 HomeLab
-Self-hosted home infrastructure project for automating and enhancing daily life.
-- **Tech Stack:** Docker, Linux, Prometheus, Grafana, n8n, Cloudflare
-- **Features:** AI Agent, Home Assistant, workflow automation, monitoring, secure remote access
+Self-built AI-powered home infrastructure for automating 5 daily workflows with 99.9% uptime.
+- **Tech Stack:** Docker, Prometheus, Grafana, Home Assistant, Linux, Cloudflare
+- **Features:** AI Agent integration, automated lighting, system backups, real-time alerts
 
 ## 🤝 Connect with Me
 
